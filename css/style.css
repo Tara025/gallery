@@ -1,0 +1,30 @@
+:root {
+    background-color: transparent;
+  }  
+
+  body {
+    width: 100vw;
+    height: 100vh;
+  }
+
+  .image-container {
+    /* width: 50%;
+    height: 50%; */
+    background-image: none;
+  }
+   
+  .tl{
+    position:relative;
+  }
+  .tr{
+    position: center;
+  }
+  .m{
+    position: center;
+  }
+  .bl{
+    position: center;
+  }
+  .br{
+    position: center;
+  }

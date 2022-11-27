@@ -1,6 +1,6 @@
 gallery
 
-**[Test this app yourself](github.io)**
+**[Test this app yourself](https://tara025.github.io/gallery/)**
 
 ---
 
@@ -43,7 +43,6 @@ LinkedIn: [https://www.linkedin.com/in/peggy-janocha-526b5a9?lipi=urn%3Ali%3Apag
 ### Used Tools
 
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [ColorZilla](https://www.colorzilla.com/chrome/)
 
 ---
 
